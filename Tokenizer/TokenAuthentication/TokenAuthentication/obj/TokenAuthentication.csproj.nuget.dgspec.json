@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj": {}
+    "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj": {
+    "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
+        "projectUniqueName": "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
         "projectName": "TokenAuthentication",
-        "projectPath": "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
+        "projectPath": "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
         "packagesPath": "C:\\Users\\gurpreet.singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\obj\\",
+        "outputPath": "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gurpreet.singh\\AppData\\Roaming\\NuGet\\NuGet.Config"

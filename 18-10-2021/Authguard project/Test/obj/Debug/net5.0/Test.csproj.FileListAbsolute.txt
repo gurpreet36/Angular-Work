@@ -1,0 +1,120 @@
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cs
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cache
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\appsettings.Development.json
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\appsettings.json
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.exe
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.deps.json
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\ref\Test.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Test.pdb
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Humanizer.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Npgsql.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.Manifest.cache
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.xml
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\scopedcss\bundle\Test.styles.css
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.RazorTargetAssemblyInfo.cache
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.dll
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\ref\Test.dll
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.pdb
+C:\TaazaaTraining\Day34\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\AutoMapper.dll
+C:\TaazaaTraining\Day34\Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\appsettings.Development.json
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\appsettings.json
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.exe
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.deps.json
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\ref\Test.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Test.pdb
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\AutoMapper.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Humanizer.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Npgsql.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\taazaatrainingassignmnet\Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cs
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.Manifest.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.xml
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\scopedcss\bundle\Test.styles.css
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.RazorTargetAssemblyInfo.cache
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.dll
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\ref\Test.dll
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.pdb
+D:\taazaatrainingassignmnet\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\appsettings.Development.json
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\appsettings.json
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.exe
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.deps.json
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\ref\Test.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Test.pdb
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\AutoMapper.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Humanizer.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Npgsql.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\taazaatrainingassignmnet\creating membership\Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cs
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.Manifest.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\staticwebassets\Test.StaticWebAssets.xml
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\scopedcss\bundle\Test.styles.css
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.RazorTargetAssemblyInfo.cache
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.dll
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\ref\Test.dll
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.pdb
+D:\taazaatrainingassignmnet\creating membership\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

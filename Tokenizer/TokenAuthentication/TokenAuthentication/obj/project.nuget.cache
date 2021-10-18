@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NwB/58vrG99QXouitGYFYXL7yQ7Kl28n0r0sAU69hCShJLVyqz5d2DF0KbjxIQUkK0oXPA9kopvF8z4LwQcww==",
+  "dgSpecHash": "K8Pc9a5gCZ8wn8StAOg2Tre0FxlbfshQLVTshOWrqEXXOCbazuPLY+zP5d8ySWwakckICRq/r2Mh+qkHjwbMvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gurpreet.singh\\Downloads\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
+  "projectFilePath": "C:\\Users\\gurpreet.singh\\Desktop\\Angular Uploader\\Tokenizer\\TokenAuthentication\\TokenAuthentication\\TokenAuthentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gurpreet.singh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\gurpreet.singh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
