@@ -1,0 +1,18 @@
+CREATE TABLE TblUser (
+	UserID  int generated always as identity,
+	FullName VARCHAR ( 50 )  NOT NULL,
+	Email VARCHAR ( 50 ) NOT NULL,
+	Password VARCHAR ( 50 ) NOT NULL,
+	Salt VARCHAR ( 50 ) NOT NULL
+        );
+----------------------------------------------------------------------
+CREATE TABLE TblBook (
+	BookID  int generated always as identity,
+	ISBN VARCHAR ( 50 )  NOT NULL,
+	Title VARCHAR ( 50 ) NOT NULL,
+	Author VARCHAR ( 50 ) NOT NULL,
+	Description VARCHAR ( 50 ) NOT NULL,
+                  Publisher VARCHAR ( 50 ) NOT NULL,
+                  PublishedYear VARCHAR ( 50 ) NOT NULL,
+                  Price decimal NOT NULL
+        );
